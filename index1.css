@@ -1,7 +1,12 @@
-.main{
+body{
+    background-image:url("sky.jpg");
+}
+    
+    
+ .main{
     
     border: 10px solid greenyellow ;
-    background-image:url("./sky.jpg");
+    
 }
 .boxes{
     display:inline-flex;
