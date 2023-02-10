@@ -1,6 +1,7 @@
 .main{
-    background-color: rgb(205, 245, 245);
+    
     border: 10px solid greenyellow ;
+    background-image:url("./sky.jpg");
 }
 .boxes{
     display:inline-flex;
